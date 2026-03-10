@@ -155,9 +155,11 @@ Một số quest có thể chưa được hỗ trợ hoặc đã hết hạn. To
 ## 📊 Hoạt động dự án
 
 <p align="center">
-
-![Star History Chart](https://api.star-history.com/svg?repos=Nguoibianhz/Discord-Auto-Quests&type=Date)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Nguoibianhz/Discord-Auto-Quests&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Nguoibianhz/Discord-Auto-Quests&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Nguoibianhz/Discord-Auto-Quests&type=Date" />
+  </picture>
 </p>
 
 | Chỉ số | Badge |
